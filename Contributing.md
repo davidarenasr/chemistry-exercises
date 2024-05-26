@@ -7,7 +7,8 @@ Improvements of the same tutorial are encouraged!
 The pull request needs to have a descriptive title
 If the language/technology of your tutorial does not exist, feel free to create a new entry in table of contents
 Make a separate pull request for each of the tutorial
-Use the following format [Title](link_to_tutorial)
+Use the following format 
+[Title](link_to_tutorial)
 If your tutorial is a multi-part series, use the following format:
     * Title
         * [Part 1](link_to_part_1)
