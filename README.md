@@ -1,2 +1,2 @@
-A list of programming tutorials in which aspiring learn how developement exercise of chemistry with lenguages de programation. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
-To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](Contributing.md) for contribution guidelines.
+Desarrollar proyectos educativos basados en química. Ver el paso a paso para contribuir en el archivo CONTRUBUIR.md
+Los proyectos aquí incluidos son variados. en la sesión de proyectos y en todos desarrollaremos un video del concepto de química a tratar y tendra un pedido especifico en el proceso de programación. 
